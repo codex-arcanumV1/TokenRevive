@@ -1,0 +1,12 @@
+modules = ["python-3.12", "nodejs-22"]
+run = "npm run dev"
+
+[nix]
+channel = "stable-24_05"
+
+[deployment]
+run = ["sh", "-c", "pnpm run dev"]
+
+[[ports]]
+localPort = 3000
+externalPort = 80
