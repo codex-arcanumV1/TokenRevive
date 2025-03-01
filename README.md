@@ -494,6 +494,7 @@ Name           | Address
 [Kat Knight](https://tonviewer.com/0:68dd6d7d3bddaa2e376861b11101316d414875429fcd649e8953f957c8b9c650) | EQBo3W19O92qLjdoYbERATFtQUh1Qp_NZJ6JU_lXyLnGUJT_
 [Kito](https://tonviewer.com/0:922cb550f2a76112a65429a88a53b17ab157e734f990e05b02a42a3ca25a3bf7) | EQCSLLVQ8qdhEqZUKaiKU7F6sVfnNPmQ4FsCpCo8olo795LP
 [KuKuCoin](https://tonviewer.com/0:8353d80db0653bd7316e016e3df0757d248e32d354e49c9a60b71bcb3d46a73e) | EQCDU9gNsGU71zFuAW498HV9JI4y01TknJpgtxvLPUanPkxR
+[Kuti Super Dog](https://tonviewer.com/0:18a7162476c889a0ec6706a86bc795e413250d6d1934a070e730868a1e259371) | EQAYpxYkdsiJoOxnBqhrx5XkEyUNbRk0oHDnMIaKHiWTcRRv
 [LADY](https://tonviewer.com/0:68c0430235ab7ea053166d186118168457140ee6a872a9e8b83fbe03db1871f9) | EQBowEMCNat-oFMWbRhhGBaEVxQO5qhyqei4P74D2xhx-TR6
 [LAMBO](https://tonviewer.com/0:c4d623eb3fcd0bd7b473907dd896e5ec11c9f98be6cf15fb9edb9f6e30a28513) | EQDE1iPrP80L17RzkH3YluXsEcn5i-bPFfue259uMKKFE3h0
 [LEMONIA](https://tonviewer.com/0:bc70fad0c7a42c8be34731c0b53e9466b5a89e0a250171bf9dd3de6ae84354b3) | EQC8cPrQx6Qsi-NHMcC1PpRmtaieCiUBcb-d095q6ENUs7XT
@@ -811,6 +812,7 @@ Name           | Address
 [RubeTON](https://tonviewer.com/0:b0797499697e64e713ad5cb6c681f17c158e836e0eab3623eb77d7747fffa40d) | EQCweXSZaX5k5xOtXLbGgfF8FY6Dbg6rNiPrd9d0f_-kDSHZ
 [Rug Police](https://tonviewer.com/0:1974adbb114e8b50dc53b16961bb76992c74b7ab7acd073a6205396434716cb0) | EQAZdK27EU6LUNxTsWlhu3aZLHS3q3rNBzpiBTlkNHFssH8c
 [Rug Pull](https://tonviewer.com/0:f3bece9984d0d931031e28ad889dcf32983a4e465d07e6101f82d7f775745bb7) | EQDzvs6ZhNDZMQMeKK2Inc8ymDpORl0H5hAfgtf3dXRbt7I7
+[RusCoinMem](https://tonviewer.com/0:b3e9869a1787beb47cf0de8248e25b49297242ff5c3b4301e4b4551452c2d82a) | EQCz6YaaF4e-tHzw3oJI4ltJKXJC_1w7QwHktFUUUsLYKjHM
 [Ruski Inu](https://tonviewer.com/0:730e3cf3a4de8f68b2b657175d00368f74d01501b733cef0438710564331e1e9) | EQBzDjzzpN6PaLK2VxddADaPdNAVAbczzvBDhxBWQzHh6aLV
 [Ruslon Skamolovsky](https://tonviewer.com/0:74f3b5b71967b614824f828c88df431fe5dd613417ea2dcdacef0153249b17ea) | EQB087W3GWe2FIJPgoyI30Mf5d1hNBfqLc2s7wFTJJsX6qY_
 [Russia Mascot](https://tonviewer.com/0:5ae27acd057d8bb497a684c5f190c3d0a6608a365b79dfa49595ea354d8c1c49) | EQBa4nrNBX2LtJemhMXxkMPQpmCKNlt536SVleo1TYwcSdP7
